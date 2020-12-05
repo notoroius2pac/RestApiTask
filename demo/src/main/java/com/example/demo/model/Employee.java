@@ -1,3 +1,6 @@
+
+// Employee Model CLass
+
 package com.example.demo.model;
 
 import javax.persistence.Column;

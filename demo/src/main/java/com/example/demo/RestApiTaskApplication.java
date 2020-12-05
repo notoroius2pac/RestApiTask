@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class RestApiTaskApplication {
 
+	//Spring boot main controller
 	public static void main(String[] args) {
 		SpringApplication.run(RestApiTaskApplication.class, args);
 	}
